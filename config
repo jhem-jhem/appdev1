@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = Jemyll
+	email = jemyllramoya@student.laverdad.edu.ph\ngit push\n
+[init]
+	defaultBranch = main
