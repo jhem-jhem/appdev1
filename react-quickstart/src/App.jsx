@@ -1,11 +1,18 @@
 import './App.css'
-import ShoppingList from './ShoppingList';
 
-export default function App() {
+function MyButton() {
+  function handleClick() {
+    alert('You clicked me!');
+  }
+
   return (
-    <div>
-      <h1>Shopping List</h1>
-      <ShoppingList />
-    </div>
+    <>
+      <button onClick={handleClick}>
+      Click me!
+      </button>
+    </>
+  
   );
 }
+
+export default MyButton
