@@ -1,16 +1,11 @@
 import './App.css'
-import AdminPanel from './AdminPanel';
-import LoginForm from './LoginForm';
+import ShoppingList from './ShoppingList';
 
-function App() {
-  let isLoggedIn =  true;
-
+export default function App() {
   return (
-    <>
-      <h1>Welcome to my App</h1>
-      {isLoggedIn && <AdminPanel />}
-    </>
-  )
+    <div>
+      <h1>Shopping List</h1>
+      <ShoppingList />
+    </div>
+  );
 }
-
-export default App
