@@ -1,16 +1,19 @@
-function MyButton() {
+function AboutPage() {
   return (
-    <button>I'm a button</button>
-  );
+    <>
+      <h1>About</h1>
+      <p>Hello there. <br /> How do you do?</p>
+    </>
+  )
 }
 
-function MyApp() {
+function App() {
   return (
-    <div>
-      <h1>Welcome to my app</h1>
-      <MyButton />
-    </div>
-  );
+    <>
+      <h1>Welcome to my App</h1>
+      <AboutPage />
+    </>
+  )
 }
 
-export default MyApp
+export default App
