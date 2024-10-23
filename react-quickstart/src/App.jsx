@@ -1,12 +1,14 @@
 import './App.css'
-import Profile from './Profile'
-
+import AdminPanel from './AdminPanel';
+import LoginForm from './LoginForm';
 
 function App() {
+  let isLoggedIn =  true;
+
   return (
     <>
       <h1>Welcome to my App</h1>
-      <Profile />
+      {isLoggedIn && <AdminPanel />}
     </>
   )
 }
