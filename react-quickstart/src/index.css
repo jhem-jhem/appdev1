@@ -32,13 +32,9 @@ body {
 }
 
 h1 {
-  color: rgb(57, 49, 165);
+  color: rgb(255, 255, 255);
   font-size: 3.2em;
   line-height: 1.1;
-}
-
-.avatar {
-  border-radius: 50%;
 }
 
 button {
