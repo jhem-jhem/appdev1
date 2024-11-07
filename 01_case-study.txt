@@ -1,0 +1,11 @@
+Case Study: Appdev (Finals)
+11/07/24
+Jemyll P. Ramoya
+BSIS - 3
+
+
+1. As a Manager: If a key team member has personal issues that are affecting the project timeline I would give support and understanding and encourage him to take time to focus on his family's needs. I would then review the project timeline to see if tasks can be redistributed among other team members or whether it is necessary to bring in temporary support. Clear and proactive communication with the R&D department would be important in managing our expectations, and keeping them informed of the delay and our plans to get back on track. I also would make sure that my team is well-informed and boost morale by emphasizing the importance of collaboration and flexibility these days.
+
+2. As a Developer: I would immediately inform my manager in case of a family emergency so the manager has the time to make necessary adjustments. In all places, I would strive to finish critical tasks before leaving or note how much is done and leave the important information to key team members so they leave best placed to carry forward from where I left off. Communication would be essential here; I would periodically follow up with my manager on my available time and try to remain productive without missing out on my family's needs, trying to get back to full productivity as soon as possible.
+
+3. What Could Have Been Done Better? : Both the manager and the developer should have implemented better risk management strategies. The manager may have planned some foreseeable blockages ahead of time, possibly by cross-training key tasks to other team members or scheduling regular team gatherings for potential surprises. The developer could have assumed that emergencies start when they start and begun to take personal responsibility in detailing the tasks and task-sharing early in the project, thus leaving much less space for disruption should a preventable absence become inevitable.
